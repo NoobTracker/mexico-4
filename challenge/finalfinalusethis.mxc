@@ -1,0 +1,4700 @@
+push 334
+jmp
+
+
+push 83
+
+print
+push 111
+print
+
+
+push 114
+push 9
+del
+push 0
+push 5
+push -2
+ sub
+ del
+ push -3
+ dup
+ add
+ del
+ push -2
+ dup 
+ mult
+ push 6 
+ mult
+ del
+ push 3
+ sub
+ del
+ 
+ 
+ print
+  push 3
+  push 8
+  dup
+ add
+ 
+del
+push -1
+add
+push 9
+push -3
+add
+del
+del
+push 114
+
+
+print
+push 121
+print
+push 7
+push 4
+push 3
+push 6
+dup
+add
+del
+sub
+del
+del
+push 44
+print
+push 32
+push 0
+dup
+add 
+push 6
+dup
+add
+del
+del
+print
+
+push 116
+print
+push 104
+	push 4
+	del
+	print
+	push 97
+	print
+	
+	 push 116
+	 push 4
+	 del
+	 print
+	 push 3
+	 push -2
+	 	add
+	 	push -1
+	 	push 6
+	 	
+	 	
+	 	add
+	 	del
+	 	del
+	 	
+	 	push 32
+	 	print
+	 	push 105
+	 	print
+	 	 push 5
+	 	 
+	 	 del
+	 	push 115
+	 	print
+	 push 32
+	 push 2
+	 push 1
+	 add
+	 del
+	print
+	
+	push 110
+	
+	
+	push 5
+	dup
+	push 9
+	dup
+	add
+	del
+	add
+	del
+	print
+	push 111
+	print
+	push 116
+	push -1
+	del
+	print
+	push 32
+	print
+	push 116
+	push 0
+	push 9
+add
+del
+print
+
+push 5
+push 4
+add
+del
+push 104
+push -2
+del
+print
+
+push 101
+
+
+print
+push 32
+push 3
+push 6
+add
+push 1
+dup
+add
+del 
+del
+ print
+ push 99
+ print
+ push 111
+ push 9
+ push -3
+ add
+ del
+ print
+ push 114
+ print
+ push 114
+ 
+  push 3
+  push 7
+  	add
+  		del
+  		print
+  	push 101
+  	print
+  	push 99
+  	print
+  	push 8
+  	 	
+  	 	del
+  	 push 116
+  	 push 3
+  	 del
+  	 	print
+  	 	push 32
+  	 	push 3
+  	 	push 9
+  	 	add
+  	 
+  	 del
+  	 push 7
+  	push -2
+  	
+  	add
+  	del
+  	print
+  	push 107
+  
+  print
+  push 101
+   push 2
+   push 5
+   add
+    del
+    print
+    push 121
+     
+     push 0
+    push 9
+    add
+    push -3
+    push 9
+    sub
+    del
+    del
+    print
+    push -1
+    	del
+    	push 32
+    	push 7
+    del
+    print
+    
+     push 58
+     push 9
+     push 3
+     del
+     del
+     print
+     push -2
+     push 8
+    sub
+    push -3
+    dup
+    mult
+    push 5
+    mult
+    	del
+    	del
+    	push 40
+    	push 9
+    	push 4
+    	push 9
+    	div
+    	push 8
+    	 mult
+    	 del
+    	 dup
+    	add
+    	del
+    	print
+    	push 10
+    	dup
+    	print
+    	print
+    	
+    	push -2
+    	dup
+    	add
+    		
+    		del
+    		push 0
+    	dup
+    	add
+    	del
+    	del
+    	
+    	push 9
+    	push -2
+    	sub
+    	del
+    	push -1
+    push 2
+    sub
+   del
+   
+   del
+   del
+  del
+  push -1
+  push -2
+  add
+  del
+  del
+  push -3
+  push 8
+  
+  dup
+  add
+  
+   del
+   del
+   push 9
+  push 5
+  div
+ push 9
+ 	mult
+ 	del
+ 	push 7
+ 	push -3
+ 	push 1 
+ 	 add
+ 	 push 2
+ 	 dup
+ 	 add
+ 	 del
+ 	 del
+ 	 push 0
+ 	 push 1
+ 	 push -1
+ 	 
+ 	 push -3
+ 	 sub
+ 	 del
+ 	 add
+ 	  del
+ 	   push 5
+ 	   push 4
+ 	   add
+ 	   del
+ 	   del
+ 	   push 3
+ 	   jmp
+ 	    
+ 	    push 0
+ 	    dup
+ 	    add
+ 	    del
+ 	    push 6
+ 	    
+ 	    dup
+ 	    add
+ 	    del
+ 	    push 2
+ 	     push 0
+ 	    add
+ 	   del
+ 	   push 69
+ 	   print
+ 	   	push 1
+ 	   dup
+ 	   add
+ 	   del
+ 	   push 110
+ 	   push -2
+ 	   push 7
+ 	   	add
+ 	   	del
+ 	   	push -2
+ 	   		push 5
+ 	   		sub
+ 	   		del
+ 	   		print
+ 	   		push 8
+ 	   		push -2
+ 	   		push -2
+ 	   	add
+ 	   	del
+ 	   del
+ 	   	push 116
+ 	   print
+ 	  push 3
+ 	  push -2
+ 	 dup
+ 	 add
+ 	 del
+ 	 push 5
+ 	sub
+ 	del
+ 	push 101
+ 	push 9
+ 	push -2
+ 	sub
+ 	del
+ 	push 5
+ 	push -1
+ 	add
+ del
+  print
+  push -1
+  dup
+ add
+ push -2
+  dup
+ add
+ push 8
+ dup
+  
+  add 
+  del
+  del
+  	del
+  	push 114
+  	print
+  	push 7
+  	 push 2
+  	 dup
+  	 add
+  	del
+  	del
+  	push -2
+  push -2
+  push -1
+  push 6
+  sub
+  del
+  add
+  del
+  push 3
+ dup
+ add
+ del
+ push 3
+
+dup
+add
+del
+push 32
+
+push 0
+	push 6
+	push -3
+sub 
+del
+push 6
+push 7
+push 7
+push -3 
+add
+del
+add
+del
+push 2
+ add
+del
+print
+push 3
+push 3
+add
+	del
+push 102
+push 5
+del
+print
+
+push 108
+push 1
+push 2 
+push 3
+add
+del
+del
+print
+
+push 4
+push -1
+sub
+ push 8
+dup
+add
+del
+del
+push 97
+print
+push 103
+print
+
+
+push 8
+push -3
+add
+del 
+push 32
+print
+
+push 112
+
+push 3
+del
+push 1
+
+ push -3
+  sub
+  
+  del
+  push 3
+  push 1
+  dup
+  add
+  push 8
+ dup
+add
+del
+del
+del
+
+print
+ 
+push 108
+print
+push 122
+push 3
+push 2
+add
+del 
+print
+push 58
+print
+
+push 32
+print
+push 27
+push 4
+del
+print
+push 91
+print
+
+push 68
+ print
+push 27
+push 8
+push 7
+push 1
+add
+del
+del
+	push 6
+	push 2
+	sub
+	del
+	
+	print
+	push 91
+		push 6
+		push 8
+		sub
+		del
+		print
+	push 68
+		print
+		push 8
+		
+		del
+		push 10
+	push 1
+	del
+	print
+	push 6
+del
+
+push 108
+	read
+	eq
+	not
+		push 3
+		
+		
+		jmpc
+		push 97
+		
+	read
+	eq
+	not
+	
+	push -1
+	push 4
+	add
+	del
+	
+	push 3
+		push 3
+		 	push 8
+		 div
+		 push 5
+		 mult
+		 del
+		 jmpc
+		  push 5
+		  push -1
+		  dup
+		  add
+		  del
+		  push 1
+		  sub
+		  del
+		   push 98
+		   read
+		   push 5
+		   dup
+		   add
+		   del
+		   eq
+		   not
+		   	push -3
+		   	push 5
+		   	push 2
+		   	sub
+		   del
+		   del
+		   
+		  push 3
+		  jmpc
+		  push 111
+		  
+		  read
+		  push 4
+		  push -2
+		 sub
+		 del
+		 	
+		 eq
+		 not
+		 push 3
+		jmpc
+		push 114
+		read
+		push 9
+		dup
+		 add
+		 del
+		 eq
+		 not
+		 
+		push 3
+		jmpc
+		push 116
+	read
+	eq
+	not
+	push 3
+	
+	 jmpc
+	 push 1
+	 push 7
+	 sub
+	 del
+	 push 97
+	 
+	 push -2
+	 del
+	 push 3
+	 	push 4
+	 	div
+	 	 push 5
+	 	 mult
+	 	 del
+	 	 read
+	 	 eq
+	 	 not
+	 	 push 3
+	 	 jmpc
+	 	 push 103
+	 	 push 0
+	 	dup
+	 	 add
+	 	 del
+	 	 read
+	 	 eq
+	 	 not
+	 	 push 3
+	 	 jmpc
+	 	 push 3
+	 	 push 4
+	 	 add
+	 	del
+	 	push 101
+	 	read
+	 push 5
+	 push -2
+	 sub
+	 del
+	 eq
+	 not
+	 push -2
+	  	push 5
+	  	sub
+	  	
+	  	del
+	  	push 8
+	  	del
+	  	push 3
+	  	push 4
+	  	del
+	  	jmpc
+	  	push 123
+	  	
+	  	push 0
+	  	 push 7
+	  	push 9
+	  	 dup
+	  	  add
+	  	  del
+	  	  sub
+	  	  del
+	  	  read
+	  	  push 4
+	  	  del
+	  	   eq
+	  	   not
+	  	   push 4
+	  	   del
+	  	   push 3
+	  	   jmpc
+	  	   push 109
+	  	   read
+	  	   eq
+	  	   	push 0
+	  	   push -3
+	  	   add
+	  	   del
+	  	    
+	  	    push -2
+	  	    dup
+	  	    add
+	  	    del
+	  	    
+	  	    not
+	  	    
+	  	    push 3
+	  	   
+	  	  jmpc
+	  	  push 121
+	  	  read
+	  	  eq
+	  	  	
+	  	  	not
+	  	  		push 3
+	  	  		jmpc
+	  	  		push -3
+	  	  		push 1
+	  	  		add
+	  	  			del
+	  	  			push 45
+	  	  			push 0
+	  	  			del
+	  	  			
+	  	  			push 9
+	  	  		del
+	  	  		read
+	  	  		push -1
+	  	  		push 5
+	  	  		 sub
+	  	  		 push 5
+	  	  		 dup
+	  	  		 add
+	  	  		 del
+	  	  		 push 2
+	  	  		  dup
+	  	  		  	add
+	  	  		  del
+	  	  		  del
+	  	  		  	eq
+	  	  		  	not
+	  	  		  push 3
+	  	  		 jmpc
+	  	  		 push 102
+	  	  		 push 8
+	  	  		 push 5
+	  	  		 add
+	  	  		 push -1 
+	  	  		 push 4
+	  	  		add
+	  	  		push 7
+	  	  		push 6
+	  	  		sub
+	  	  		push -2 
+	  	  			dup
+	  	  			add
+	  	  			del
+	  	  		del
+	  	  		del
+	  	  		del
+	  	  		
+	  	  		read
+	  	  	eq
+	  	  	not
+	  	  	push 3
+	  	  	jmpc
+	  	  	push 6
+	  	  	 push 3
+	  	  	 add
+	  	  	 del
+	  	  	 push 97
+	  	  	 push 4
+	  	  	 push 3
+	  	  	 add
+	  	  	 del
+	  	  	 push 6
+	  	  	push -3
+	  	  	push 4
+	  	  	sub
+	  	  	del
+	  	  	push -2
+	  	  	sub
+	  	  	del
+	  	  	push 3
+	  	  	del
+	  	  	read
+	  	  	push 2
+	  	  	push -1
+	  	  	add
+	  	  del
+	  	  push 2
+	  	  push 2
+	  	  add
+	  	  del
+	  	  
+	  	  eq
+	  	  not
+	  	  	push 9
+	  	  	push 8
+	  	  	div
+	  	  	push 3
+	  	  	mult
+	  	  	del
+	  	  	push 3
+	  	  	jmpc
+	  	  	push 5
+	  	  	push 5
+	  	  	 push 5
+	  	  	dup
+	  	  	add
+	  	  	del
+	  	  	sub
+	  	  	del
+	  	  push 118
+	  	 read
+	  	 eq
+	  	 not
+	  	  	push 7
+	  	  	del
+	  	  	push 3
+	  	  	jmpc
+	  	  	push 111 
+	  	  	
+	  	  	read
+	  	  	eq
+	  	  	not
+	  	  	push 3
+	  	  	
+	  	  	jmpc
+	  	  push 2
+	  	  push 6
+	  	   dup
+	  	  add
+	  	  del
+	  	  push 7
+	  	 del
+	  	 push 9
+	  	 del
+	  	 push 5
+	  	push 3
+	  	add
+	  	del
+	  	del
+	  	push -1
+	  	push -3
+	  	add
+	  del
+	  
+	  push 117
+	 push 0
+	 push -3
+	 dup
+	 add
+	  del
+	  push 8
+	   sub
+	   del
+	   
+	    read
+	    push 3
+	    push 6
+	    sub
+	    del
+	   eq
+	   
+	  not
+	  push 5
+	  dup
+	  add
+	  del
+	  push 5
+	 dup
+	 add
+	 del
+	 push 3
+	 
+	push -1
+del
+push 0
+dup
+add
+del
+jmpc
+push 114
+push 4
+push 0
+dup
+add
+del
+push 5
+
+add
+del
+ read
+ 
+ 
+ push 1
+ push 6
+ add
+ del
+ eq
+ push -2
+ push -2
+ add
+ del
+ push 7
+  push -3
+   dup
+   add
+   del
+   	dup
+   	add 
+   	del
+   	
+   	push 2
+   	push 6
+   	sub
+   	 del
+   	 push -1
+   	  push -3
+   	  push 8
+   	  sub
+   	  del
+   	  del
+   	 not
+   	push 9
+   	push -2
+   	add
+   	del
+   	push 3
+   	jmpc
+   	push 105
+   	read
+   	eq
+   	not
+   	push 9
+   	push 0
+   	push 5
+   sub
+   del
+   push 9
+  add
+  push 4
+  dup
+  add
+  del
+  	push 5
+  	push 2
+  	sub
+  	del
+  	del
+  	push 3
+  	jmpc
+  		push 116
+  		read
+  		eq
+  			not
+  			push 3
+  			jmpc
+  			push 7
+  			dup
+  			add
+  		del
+  		push 101
+  		read
+  		eq
+  		not
+  		push 3
+  		push 6
+  		push 4
+  	add
+  	del
+  	jmpc
+  	
+  	push 45
+  
+ read
+ 
+ eq
+ not
+ push -1
+ push 9
+ push 6
+ add
+ push 2
+ push 2
+ add
+ 
+ del
+  del
+  push 7
+  push 0
+  sub
+  del
+   push 3
+   dup
+   add
+   del
+   del
+   push 5
+   push 8
+   div
+   push 3
+   mult
+   del
+   push 3
+   push 2
+   push 1
+   sub
+   del
+   push 1
+   push 3
+   add
+   del
+  
+  jmpc
+  push 6
+  push 8
+  dup
+  add
+ del 
+ del
+ push 114
+ push -2
+ push -2
+
+ add
+ del
+ read
+ eq
+push -1
+push 5
+sub
+del
+not
+
+push 4
+push 0
+sub
+del
+push 7
+
+push -2
+push 6
+sub
+del
+push 0
+sub
+del
+push 3
+jmpc
+push 97
+push 7
+del
+push -3
+push -2
+sub
+	del
+		push -3
+		push 1
+		push 6
+		sub
+		
+		del
+		del
+		push -3
+		push -2
+		sub
+		push 2
+		dup
+		add
+		del
+		 del
+		 read
+		 
+		 eq
+		 not
+		push 3
+			jmpc
+			push 9
+			push 9
+			add
+		del
+	push -2
+	dup
+	 add
+	 del
+	
+push 110
+
+
+read
+eq
+push 5
+del
+not
+push 2
+	push 5
+	sub
+	del
+	push 3
+	jmpc
+	push 100
+	read
+	push 0
+	dup
+	add
+	 del
+	 eq
+	 push 2
+	 	del
+	 	not
+	 	push 3
+	 	jmpc
+	 	push 111
+	 		push 0
+	 		dup
+	 	add
+	 	
+	 		del
+	 		push 4
+	 		push 9
+	 		sub
+	 		del
+	 		push 4
+	 	push 8
+	 	 sub
+	 	 	del
+	 	 	 read
+	 	 	 eq
+	 	 	 not
+	 	 	 push 3
+	 	 	 jmpc
+	 	 	 
+	 	 	push 109
+	 	 
+	 	 read
+	 	  
+	 	push 5
+	 	push 3
+	 
+	 push 1
+	 	push -1
+	 sub
+	 del
+	 sub
+	 del
+	 push 0
+	 push 3
+	 add
+	 
+	 del
+	 eq
+	 push 0
+	 push 2
+	 sub
+	 del
+	 not
+	 
+	 push 3
+	 jmpc
+	 push 45
+	 read
+	 eq
+	 
+	 
+	not
+	push 1
+dup
+add
+ del
+ push 3
+ 
+  jmpc
+  push 110
+  read
+  
+  
+  eq
+  
+  not
+  push 3
+  dup
+  mult
+  push 3
+  mult
+  del
+  push 3
+ jmpc
+ 
+push 1
+dup
+push 0
+dup
+mult
+push 7
+mult
+push 8
+dup
+mult
+push 5
+mult
+ del
+del
+	add
+	del
+	push -3
+	del
+	push 117
+	read
+	
+	eq
+	not 
+	push 3
+	jmpc 
+	push 109
+	read
+	eq
+
+push 1
+push 3
+push -1
+ push 1
+ sub
+del
+push 5
+push -2
+sub
+del
+del
+push 1 
+dup
+add
+del 
+del
+	not
+	push 3
+	jmpc
+	push 98
+		read
+	eq
+	not
+	push 3
+	 
+	jmpc
+	push 101
+read
+eq
+not
+
+
+push 5
+	push 2
+		push 1
+		add
+		del
+		del
+		push 3
+			jmpc
+			push 114
+			read
+			
+			push 6
+			push 9
+				sub
+				del
+				eq
+				not
+				push 0
+				del
+			push 3
+			jmpc
+			push 45
+			read
+		push -3
+		push 0
+		add
+		push 9
+			push 5
+			 sub
+			 del
+			 del
+			 push 4
+			 push 6
+			dup
+			add
+			del
+		push 0
+	sub
+	del
+	eq
+	not
+	push 3
+	jmpc
+	
+	push 105
+
+	push 8
+	push 1
+	 sub
+	 del
+	 
+	 read
+	 	push -2
+	 	push 3
+	 	sub
+	 	del
+	 	eq
+	 	
+	 	push 0
+	 	push 1
+	 
+	sub
+del
+not 
+push 3
+
+jmpc
+push 115
+read
+eq
+not
+
+push 3
+push -1
+dup
+add
+del
+jmpc
+push 45
+
+read
+eq
+not
+push 3
+jmpc
+push 3087
+jmp
+ push 8
+ push 5
+ add
+ push 5
+
+push 3
+sub
+push -3
+dup
+add
+del
+del
+del
+push -3
+del
+
+push -1
+push 0
+push 3
+push -2
+sub
+del
+push 5
+push -1
+dup
+	add
+	 del
+	 push 3
+	 sub
+	 del
+	 add
+	 del
+	 push 108
+	  push 5
+	  del
+	  	push 4
+	  	push 7
+	  	add
+	  	push 4
+	  	push 6
+	  	sub
+	  	del
+	  	del
+	  	push -3
+	  	push 8
+	  	add
+	  	del
+	  	push 7
+	  del
+	  push 0
+	   	del
+	   	print
+	   	push 111
+	   	
+	   	
+	   	print
+	   	push 3
+	   	push -3
+	   	sub
+	   	del
+	   push 9
+	   push 1
+	   add
+	   del
+	   push 108
+	   push 3
+	  dup
+	  add
+	  	del
+	  	 	print
+	  	 	push -2
+	  	 	push 5
+	  	 	add
+	  	 	del
+	  	 	push 32
+	  	 	print
+	  	 	push -1
+	  	 	push 2
+	  	 	push 7
+	  	 	dup
+	  	 	add
+	  	 		del
+	  	 	push -1
+	  	 	 dup
+	  	 	 add
+	  	 	 del
+	  	 	 sub
+	  	 	 del
+	  	 	  
+	  	 	  push 5
+	  	 	 del
+	  	 	 push 2
+	  	 	 dup
+	  	 	 	mult
+	  	 	 	push 7
+	  	 	 mult
+	  	 	  del
+	  	 	  push -2
+	  	 	  del
+	  	 	  push 121
+	  	 	  print
+	  	 	  
+	  	 	   push 111
+	  	 	   push 8
+	  	 	   del
+	  	 	   
+	  	 	    print
+	  	 	    push 117
+	  	 	    
+	  	 	    push -2
+	  	 	    push 4
+	  	 	    sub
+	  	 	    del
+	  	 	    push 8
+	  	 	    dup
+	  	 	    add
+	  	 	   del
+	  	 	   print
+	  	 	   push 32
+	  	 	  push 6
+	  	 	  push 6
+	  	 	  sub
+	  	 	 del
+	  	 	 push 0
+	  	 	 del
+	  	 	 print
+	  	 	 push 8
+	  	 	 	dup
+	  	 	 add
+	  	 	 del
+	  	 	 push 102
+	  	 	 print
+	  	 	 push 3
+	  	 	push 0
+	  	 	push 6
+	  	 	push -3
+	  	 	push 3
+	  	 	sub
+	  	 	del
+	  	 	sub
+	  	 	del
+	  	 	 push 1
+	  	 	add
+	  	 	del
+	  	 	
+	  	 	push 111
+	  	 	print
+	  	 
+	  	 push -3
+	  	  dup
+	  	  add
+	  	 del
+	  	 push 114
+	  	print
+	  	push -2
+	  	dup
+	  	add
+	  	
+	  	del
+	  	push 103
+	  print
+	  
+	  
+	  push 1
+	  push 9
+	  add
+	  push 2
+	  dup
+	  add
+	  del
+	  del
+	  push 111
+	  	print
+	  	push 3
+	  	push 9
+	  	del
+	  	del
+	  	
+	  		push 116
+	  		
+	  		push -2
+	  			del
+	  			print
+	  			push 32
+	  			
+	  			print
+	  			push -3
+	  			
+	  		push 3
+	  		push 0
+	  		push -2
+	  		add
+	  		push 0
+	  		dup
+	  		add
+	  		del
+	  	del
+	  	
+	  	push 1
+	  	dup
+	  	push -1
+	  	dup
+	  	add
+	  	del
+	  	add
+	  	del
+	  	add
+	  push 8
+	  dup
+	  add
+	  del
+	  del
+	  push 116
+	  push 3
+	  push 8
+	  add
+	  del
+	  print
+	  push 104
+	  print
+	  push 101
+	  print
+	  push 1
+	 push 8
+	 add
+	 del
+	 push 0
+	 
+	 dup
+	add
+	push 8
+	dup
+	add
+	del
+	del
+	
+	push 9
+		push 3
+		dup
+		mult
+		push 9
+		mult
+		 del
+		  push 4
+		  
+		 push -3
+		 add
+		 del
+		 del
+		 
+		 
+		push 3
+		push -1 
+		sub
+	del
+	push 32
+	print
+push 99
+push 3
+
+push 1
+add
+del
+
+print
+push 108
+print
+push 111
+print
+push 115
+	print
+	 push 4
+	 push -1
+	 push 0
+	 dup
+	 add
+	del
+	push 7
+	add
+del
+push 2
+	push 0
+	dup
+	add
+	push -3
+	dup
+	add
+	del
+	del
+add
+push 6
+push 0
+add
+push 7
+push 9
+add
+del
+del
+del
+push 105
+
+print
+	push 1
+	push 1
+	push -2
+	add
+	del
+	del
+		push 6
+		del
+		push 5
+		push 6
+		push 6
+		div
+		push 9
+		mult
+		del 
+		 push -3
+		 sub
+		  del
+		  push 110
+		  print
+		  
+		  push 103
+		  print
+		  push 32
+		   
+		   push 9
+		   del
+		   print
+		   
+		   push 98
+		   print
+		   
+		   push 114
+		    print
+		    
+		    push 97
+		    push 6
+		   push -2
+		   add
+		   del
+		   print
+		   push 7
+		  
+		  dup 
+		  
+		 add
+		 del
+		 push -1
+		 dup
+		  add
+		  del
+		  push 7
+		  del
+		  push 99
+		  
+		  
+		   push -2
+		   	del
+		   	push -1
+		   	del
+		   	print
+		   	push 8
+		   	push 4
+		   	add
+		   	del
+		   	
+		   	
+		   	push 7
+		   	push -1
+		   	add
+		   	del
+		   	
+		   	push 107
+		   	
+		   	push 7
+		   	push 5
+		   	div
+		   	 push 4
+		   	 mult
+		   	 del
+		   	 print
+		   	 push -2
+		   	 dup
+		   	 add
+		   	 del
+		   	 push 5
+		   	 dup
+		   	add
+		   	del
+		   	push 101
+		   	print
+		   		push 1
+		   		dup
+		   		 add
+		   		 del
+		   		push 116
+		   		print
+		   		
+		   			
+		   			push -1
+		   		push -2
+		   		sub
+		   		del
+		   	push 0
+		   push 4
+		    sub
+		   push 0
+		  push 6
+		  sub
+		  del
+		   del
+		   push 32
+		   print
+		  push 8
+		 dup
+		 mult
+		push 6
+		mult
+		del
+		push 94
+		
+			push 3
+			push -1
+			sub
+			del
+			print
+			push -1
+			del
+			push 9
+			push -2
+				add
+				del
+				
+				 push 94
+				 
+				 print
+				 push -1
+				 del
+				 push 2
+				 push 8
+				add
+			del
+			push 10
+			print
+			 
+			 	push 3
+			 
+			 jmp
+			 
+			right
+			push 1
+			
+		add
+	push 9
+	push 2
+	add
+	push 1
+push 3
+
+ push 6
+ dup
+ add
+ del
+  sub
+  del
+  del
+  
+  right
+  push -2
+ push -1
+ add
+ del
+ push -1
+push 5
+del
+push -3
+dup
+add
+del
+add
+dup
+
+push 1830
+jmpc
+push 2
+push -2
+push 1
+sub
+del
+del
+del
+
+pusht
+	push -3
+	
+	push 0
+	 	dup
+	 	add 
+	 del
+	 push 8
+	 push 7
+	 sub
+	 del
+	 	del
+	 push 7
+	 dup
+	add
+	del
+	push 6
+	dup
+	add 
+	del
+
+
+
+
+
+ left
+ push 5
+ del
+ pusht
+ 
+ 
+ push 1
+ add
+ push 1879
+ push 2
+ dup
+ add
+ del
+ jmpc
+ push 3
+ push 5
+ sub
+ del
+ push 4
+ push -2
+ push 2
+ add
+ del
+ 	push 0
+ 	del
+ 	del
+ 	left
+ 	pop
+ 	
+ 	jmp
+ 	
+ 		right
+ 		push 7
+ 		dup
+ 		add
+ 		del
+ 		push 1
+ 	add
+ 	
+ right
+ push 3
+ dup
+ add
+ del
+ push -1
+ 
+ add
+ push 7
+ push 8
+sub
+del
+dup
+push 1919
+jmpc
+ del
+ pop
+ 
+ left
+ push 8
+  push 1
+  sub
+ del
+  pusht
+  
+  push 1
+ push 5
+ dup
+ add
+  del
+  add
+  push 5
+  push -1
+  add
+ del
+ 
+
+	push 1937
+	 	
+	 	push 4
+	 	push 9
+	 	sub
+	 	del
+	 	jmpc
+	 	left
+	 	jmp
+	 	push -1
+	 	 push 4
+	 	 dup
+	 	add
+	 	del
+	 	push -3
+	 	sub
+	 	
+	 	
+	 del
+	 
+	 push 1981
+	 push 1000
+	 push 1812
+	 jmp
+	
+	pusht
+	left
+	
+	pop
+	push 2022
+
+
+push 7
+del
+pusht
+
+push -3
+push 5
+add
+del
+right
+push 1812
+
+push 2
+push 9
+sub
+del
+push 9
+push 3
+push -3
+sub
+del
+push -3
+add
+	del
+	jmp
+	push 4
+	
+	push 1
+	add
+		push -2
+		dup
+		add
+		del
+		del
+		
+		pusht
+		left
+		
+		pop
+	push 2072
+	pusht
+	right
+		push -1
+		dup
+		
+		add
+		del
+	push 7
+	push 3
+add
+
+push 4
+dup
+add
+push 0
+dup
+add
+del
+del
+del
+push 4
+del
+push 7
+del 
+push 1
+del
+push 3
+push 3
+sub
+del
+push 1000
+
+
+push 1911
+
+jmp
+push 0
+push 3
+del
+del
+push 6
+push 1
+sub
+del
+ 
+ push 1
+ push 7
+ sub
+  del
+  push 2155
+  
+  push -1
+  push -2
+  add
+  del
+  
+  push 5
+  push 9
+   add
+   push 0
+   dup
+  add
+  
+  
+  del
+  del
+  push 6
+  push 7
+  sub
+  del
+ 
+ push -3
+ push 5
+ sub
+ del
+ push -3
+ push 9
+add
+del
+push 2
+del
+push 2
+del
+push 1
+del
+push 5
+push 6
+push 9
+	div
+	push 8
+	mult
+	push 0
+	dup
+	mult
+	push 6
+	mult
+	
+	del
+		del
+		push 8
+		dup
+		mult
+			push 9
+			mult
+			del
+			 push 4
+			 push 5
+			 push 9
+			 push 3
+			 div
+			push 9
+		mult
+		del
+		push -2
+		dup
+		add
+		del
+		push 6
+		sub 
+	del
+	add
+	del
+	push 1001
+		push 1812
+		jmp
+	push 1
+	del
+	
+	pusht
+	
+	push 1
+	del
+	push -1
+	dup
+	add
+	
+		del
+		 push 1
+		 dup
+		 add
+		push -2
+		dup
+		add
+			del
+			 del
+			left
+			pop
+			
+			push 5
+		push 2
+	sub
+	del
+	push 0
+dup
+add
+del
+
+	push 2204
+pusht
+right
+
+
+push 8
+push 0
+push -2
+dup
+add
+del
+sub
+del
+	push 1812
+		push 1
+		push 6
+			add
+			del
+			jmp
+			
+			
+			pusht
+			left
+			pop
+			push -1
+			del
+		push 2239
+		push 5
+		dup
+		push 4
+		dup
+		add
+		del
+			add
+			 del
+			 push 5 
+			 push -1
+			 sub
+			 del
+			pusht
+			push -3
+			dup
+				add
+				del
+				right
+				push 1001
+				push 1911
+				push 7
+				push -3
+				push 7
+				sub
+				del
+				del
+				jmp
+				
+				push 2248
+				push 1002
+				push 8
+				dup
+				add
+			del
+			push 1812
+			jmp
+			
+			pusht
+			left
+			pop
+		push 2272
+		push 9
+		 dup
+		 add
+		 del
+		 
+		 pusht
+		 push 8
+		 push 7
+		 dup
+		 add
+		 del
+		  del
+		 right
+		push 1812
+	push 3
+	push 2
+	add
+	del
+jmp
+
+
+ pusht
+ push 3
+ push 7
+ sub
+ 
+ del
+ left
+ 
+ pop
+ push 2298
+ pusht
+ 
+ right
+ push 5
+ push 2
+ sub
+ del
+ push 1002
+ push 6
+ push 9
+ del 
+ del
+push 1911
+jmp
+
+push 2327
+push 9
+dup
+add 
+del
+push 7
+push 7
+sub
+del
+push -2
+push 7
+push 6
+push -2
+dup
+add
+del
+dup
+add
+del
+add
+	del
+	
+	push 4
+del
+push 1003
+push 1812
+
+jmp
+
+push 3
+push -2
+sub
+del
+pusht
+push 5
+push 5
+add
+del
+left
+push 4
+push -2
+add
+del 
+pop
+
+push 6
+dup
+push -2
+dup
+add
+del
+add
+del
+push 2371
+pusht
+push -1
+push -1
+push 2
+sub
+del
+push 2
+del
+
+del
+right
+push 9
+del
+
+push 1812
+jmp
+push 9
+del
+
+push 6
+push 2
+push 4
+add 
+del
+push 0
+add
+del
+pusht
+left
+pop
+push 2394
+push -1
+push 2
+add
+del
+
+pusht
+right
+push 1003
+push 1911
+jmp
+
+push 2399
+push 1004
+push 1812
+	jmp
+	
+	push -3
+	 push 7
+	 
+	  add
+	  del
+	  
+	  push -2
+	 dup
+	 add
+	 del
+	 pusht
+	 push 4
+	 dup
+	 add
+	 del
+	 left
+	 pop
+	 push 2455
+	  push 7
+	  push 8
+	  add
+	  del
+	  push 1
+	  dup
+	  add
+	  del
+	   push 9
+	    push 6
+	    dup
+	    add
+	    del
+	    push 1
+	    
+	     add
+	     del 
+	     pusht
+	     right
+	    
+	    push 6
+	    push -2
+	    add
+	    del
+	    push 1812
+	    push -1
+	    push -1
+	    push 8
+	    push 0
+	    dup
+	    add
+	    del
+	    sub
+	    
+	    del
+	    del
+	    jmp
+	    
+	    push 2
+	    push 0
+	    push -3
+	    push 4
+	   push 9
+	   dup
+	   add
+	   del
+	   add
+	   del
+	   push 0
+	   add
+	   del
+	   push 7
+	    push 3
+	   sub
+	   del
+	   push -1
+	   dup
+	   add
+	  del
+	  push 8
+	  push 3
+	  dup
+	  
+	  add
+	 del
+	  push 6
+	  sub
+	  del
+	  push -2
+	  add
+	  push -1
+	  	dup
+	  	
+	  		add
+	  			del 
+	  			push 5
+	  				push 7
+	  				add
+	  					push 6
+	  				push 7
+	  			
+	  			sub
+	  			del
+	  			del
+	  			del
+	  			 	push 5
+	  			 	del
+	  			 	pusht
+	  			 	 left
+	  			 	 pop 
+	  			 	 
+	  			 	 push 8
+	  			 	 push 2
+	  			 	 push 3
+	  			 	 sub
+	  			 	 del
+	  			 	 push 7
+	  			 	 push 7
+	  			 	 push 6
+	  			 	 sub 
+	  			 	 del
+	  			 	  add
+	  			 	  del
+	  			 	  push -3
+	  			 	  push 6
+	  			 	   sub
+	  			 	   del
+	  			 	   push 2540
+	  			 	  push -2
+	  			 	  push 4
+	  			 	  sub
+	  			 	  del
+	  			 	  	pusht
+	  			 	  	
+	  			 	  	push 0
+	  			 	  	del
+	  			 	  		right
+	  			 	  		push 1004
+	  			 	  	push 1911
+	  			 	  	jmp
+	  			 	  	
+	  			 	  
+	  			 	  
+	  			 	  push 2556
+	  			 	  push 1005
+	  			 	  push 9
+	  			 	  push 7
+	  			 	 sub
+	  			 	 del
+	  			 	 push 1812
+	  			 	 push 2
+	  			 	 push -3
+	  			 	 
+	  			 	 sub
+	  			 	 del
+	  			 	 push 9
+	  			 	 del
+	  			 	  jmp
+	  			 	  
+	  			 	  pusht
+	  			 	  left
+	  			 	   pop
+	  			 	   push 2571
+	  			 	   pusht
+	  			 	   right
+	  			 	   
+	  			 	   push 1812
+	  			 	   
+	  			 	   push 8
+	  			 	   del
+	  			 	   push 4
+	  			 	   del
+	  			 	   jmp
+	  			 	   
+	  			 	   pusht
+	  			 	   
+	  			 	  left
+	  			 	  
+	  			 	  pop 
+	  			 	  push 0
+	  			 	  del
+	  			 	  push 2608
+	  			 	  push 5
+	  			 	  push 0
+	  			 	  push 4
+	  			 	  sub
+	  			 	  del
+	  			 	  	del
+	  			 	  	 push 8
+	  			 	  	 push 8
+	  			 	  	 push 6
+	  			 	  	 dup
+	  			 	  	 add
+	  			 	  	
+	  			 	  	del 
+	  			 	  	sub
+	  			 	  	del
+	  			 	  	pusht
+	  			 	  	right
+	  			 	  	push 1005
+	  			 	  	push 1911
+	  			 	  	jmp
+	  			 	  	push 7
+	  			 	  del
+	  			 	  push -1
+	  			 	  push 0
+	  			 	  add
+	  			 	  del
+	  			 	  push 7
+	  			 	  del
+	  			 	  
+	  			 	  jmp
+	  			 	  push 7
+	  			 	  dup
+	  			 	 add
+	  			 	 del
+	  			 	 
+	  			 	 push 2683
+	  			 	 push 2625
+	  			 	 push 1000
+	  			 	 push 1812
+	  			 	 push 1
+	  			 	 push -1
+	  			 	 sub
+	  			 	  del
+	  			 	  
+	  			 	 jmp
+	  			 	 
+	  			 	 push 256
+	  			 	 
+	  			 	pusht
+	  			 	push 2643
+	  			 	push 1001
+	  			 	push 6
+	  			 	dup
+	  			 		push 6
+	  			 		dup
+	  			 		add
+	  			 	del
+	  			 	add
+	  			 	del
+	  			 	push 1812
+	  			 	push 4
+	  			 	del
+	  			 	jmp
+	  			 	
+	  			 	push -1
+	  			 	push 6
+	  			 	push 4
+	  			 	sub
+	  			 del
+	  			 push -1
+	  			 dup
+	  			 mult
+	  			 push 4
+	  			 mult
+	  			 del
+	  			 del
+	  			 push -3
+	  			 del
+	  			pusht
+	  			push 9
+	  			dup
+	  			add
+	  			del
+	  			 push -3
+	  			  dup
+	  			  add
+	  			  del
+	  			  add
+	  			   push 42
+	  			   
+	  			   add
+	  			   	push 0
+	  			   del
+	  			   mod
+	  			    push 1000
+	  			    
+	  			   push 1911
+	  			    
+	  			    jmp
+	  			    push 6
+	  			    push 9
+	  			    add
+	  			    del
+	  			    
+	  			    	push 2788
+	  			    	
+	  			    	push 4
+	  			    	push 2
+	  			    	push 0
+	  			    	 push -2
+	  			    	 
+	  			    	 sub
+	  			    	del
+	  			    	
+	  			    		sub
+	  			    		del
+	  			    		push 2716
+	  			    		push 1001
+	  			    		
+	  			    		push 1812
+	  			    		push -3
+	  			    		del
+	  			    		push 4
+	  			    		push 9
+	  			    		dup
+	  			    	add
+	  			    	del
+	  			    		del
+	  			    		jmp
+	  			    		push 0
+	  			    	del
+	  			    		push -3
+	  			    		push 3
+	  			    		sub
+	  			    		del
+	  			    		
+	  			    		
+	  			    		push -1
+	  			    		dup
+	  			    		add
+	  			    		del
+	  			    		push 256
+	  			    		push 3
+	  			    		push 8
+	  			    		push 8
+	  			    	sub
+	  			    	del
+	  			    	push 0
+	  			    	push -2
+	  			    	push 4
+	  			    	add
+	  			    	del
+	  			    	add
+	  			    	del
+	  			    	push 1
+	  			    	push 0
+	  			    	add
+	  			    	del
+	  			    	pusht
+	  			    	push 0
+	  			    dup
+	  			    mult
+	  			    push 5
+	  			    mult
+	  			   del
+	  			   push -1
+	  			   dup
+	  			   
+	  			   push 2
+	  			   dup
+	  			   add
+	  			  del
+	  			 add
+	  			 del
+	  			 push 2770
+	  			 push 4
+	  			 push 8
+	  			 div
+	  			  push 3
+	  			  mult
+	  			  del
+	  			  
+	  			  push 1002 
+	  			  push 1812
+	  			  push 7
+	  			  push 5
+	  			  add
+	  			   del
+	  			   jmp
+	  			   
+	  			   
+	  			   pusht
+	  			   push -2
+	  			   push 2
+	  			   add
+	  			   
+	  			   del
+	  			   add
+	  			   
+	  			   push 5
+	  			   
+	  			   del
+	  			   push 42
+	  			   add
+	  			  mod
+	  			  push 1001
+	  			  push 1911
+	  			  jmp
+	  			  
+	  			  push -3
+	  			  push 1
+	  			 dup
+	  			 add
+	  			 	del
+	  			 	push 4
+	  			 	push 5
+	  			 	push 0
+	  			 	 add
+	  			 	 del
+	  			 	 add
+	  			 	 del 
+	  			 	 push -2
+	  			 	 push 5
+	  			 	 add
+	  			 	 del
+	  			 	 push 2853
+	  			 	push 2810
+	  			 	push 1002
+	  			 	push 1812
+	  			 	jmp
+	  			 	
+	  			 push 6
+	  			 push 6
+	  			 div
+	  			 push 6
+	  			 mult
+	  			 del
+	  			 push 7
+	  			push 8
+	  			sub
+	  			del
+	  			push 0
+	  			dup
+	  			add
+	  			del
+	  			push 256
+	  			pusht
+	  			push 2835
+	  			push 1003
+	  			push 4
+	  			push 6
+	  			sub
+	  			del
+	  			push 1812
+	  			jmp
+	  			
+	  			pusht
+	  			add
+	  		push 42
+	  		add
+	  		
+	  			mod
+	  			push 1002
+	  			
+	  			push -1
+	  		dup
+	  	add
+	  	del
+	  	push 5 
+	  	del
+	  	push 1911
+	  	
+	  	jmp
+	  
+	  push -1
+	 push 2
+	 push 7
+	 
+	 add
+	 del
+	  del
+	  push 2914
+	  push 2884
+	  
+	  push 1003
+	  push 0
+	  dup
+	  add
+	  
+	 del
+	 push 1812
+	 jmp
+	 push 1
+	 push 3
+	 push 4
+	 dup
+	 add
+	 del
+	 add
+	 push -2
+	 dup
+	 add
+	 del
+	 del
+	 
+	 push 256
+	
+		pusht
+	push 2903
+	push 4
+	push 9
+	sub
+	del
+
+
+push 1004
+push 1812
+
+push -3
+push -1
+add
+del
+jmp
+
+pusht
+ add
+ push 42
+ add
+ mod
+ push 3 
+ del
+ push 1003
+push 1911
+jmp 
+
+push 2991
+push -3
+del
+push 3
+push 4
+add
+del
+push 3
+del
+push 2937
+
+push 1004
+
+
+push 1812
+push 3 
+push 1
+add
+del
+jmp
+push -3
+del
+
+push 256
+pusht
+push 2944
+push 1005
+push 1812
+jmp
+
+pusht
+push 2
+push -1
+sub
+del
+push -2
+push 8
+add
+push 9
+push 4
+ sub
+ del
+ del
+ push 6
+ 	del
+ 	push 2
+ 	push 9
+ 	sub
+ 	del
+ 	push 4
+ 		push 5
+ 		push 6
+ 		add
+ 		push 1
+ 		dup
+ 	add
+ 	 del
+ 	 del
+ 	 push 2
+ 	add
+ 	del
+ 	add
+ 	
+ 	
+ 	push 42
+ 	add
+ 	push 1
+ 	push 1
+ 	sub
+ del
+ mod
+push 1004
+push -2
+del
+push 1911
+jmp
+ 
+  push 4
+  push 2
+ 
+  sub
+ del
+  
+  
+  push 3085
+  
+  push 3038
+ 
+push -3
+ push -1
+ add
+ del
+ push 1005
+ push 7
+push -2
+sub
+del
+push 1812
+jmp 
+push -2
+push 7
+dup
+mult
+ push 7
+ mult
+del
+push -3
+dup
+add
+del
+dup
+add
+push -3
+dup
+mult
+push 8
+mult
+del
+del
+push 8
+push 2
+add
+del
+
+push 256
+pusht
+push -1
+push 9
+	push 0
+	sub
+	 del
+	 del
+	 push 3054
+	 push 0
+	del
+		push 1000
+	push 1812
+	jmp
+	 
+	 
+	push 5
+	push 4
+	del
+	del
+	pusht
+	 add
+	 
+	 push 42
+	add
+	mod
+	push 2
+	dup
+	add
+	del
+	push 2
+	push 1
+	add
+	del
+	push 1005
+
+push 1
+push 6
+add
+del
+push 1911
+	jmp
+		push 7
+		push -3
+		sub
+			del
+			
+			jmp
+			
+			right
+			right
+			right
+			push 0
+			del
+			push -1 
+			pop
+			push 7
+				push 1
+				add
+				 del
+				 left
+				 push 3121
+				  push 98
+				  push 5
+				 
+				 	push 1911
+				 push 6
+				 push 5
+				 add
+				 push 0
+				 dup
+				 mult
+				 push 4
+				 mult
+				 del
+				 del
+				 push -3
+				 dup
+				 
+				 add
+				 del
+				 jmp
+				 
+				push 3127
+				
+				push 5
+				push 1812
+				jmp
+				
+				push 4
+				push 2 
+				add
+				del
+				push 2
+				push 9 
+			add
+			push 4
+			push -3
+		add 
+		del
+		del
+		pusht
+		del
+		
+		push -1
+		push 7
+		del
+		push 164
+		push 23
+		push 0
+		push 6
+		add
+		push 1
+	dup
+	add
+del
+del
+
+push 39
+push 14
+push 149
+
+push 2
+del
+push 4
+del
+push 93
+push 96
+push 174
+
+ push 91
+ push 143
+
+push 22
+push 5
+ push 4
+ sub
+ del
+  push 59
+  push 213
+  push 8
+  
+  
+  
+  push 175
+  push 139
+ push 40
+ push 198
+push 161
+
+push 52
+
+	
+push 111
+ push 7
+ dup
+ add
+ del
+ push 151
+ 
+push 184
+push 4
+dup
+add
+ del
+ push 21
+ push 2
+ push 2
+ add
+ del
+push 235
+push -2
+del
+push 3
+del
+push 9
+
+push 251
+push 7
+push 5
+sub
+del
+
+push 15
+push 132
+push 6
+push 2
+push 3
+sub
+del
+push 2
+sub
+ del
+ push 55
+ push -3
+ push -2
+ sub
+ del
+ 
+ 
+ 	push -3
+ 	del
+ 	
+ 	push 118
+ 	push 104
+ 	push -2
+ 	push -3
+ 	sub
+ 	del
+ 	push 31
+ 	push 243
+ 	
+ 		push 250
+ 		
+ 		
+ 		push 236
+ 		push 4
+ 	del
+ 		push 106
+ 		
+ 		push 231
+ 	push 192
+ 	push 147
+ 	push 66 
+ 	push 208
+ 	push 199
+ 	 push 201
+ 	 push 220
+ 	 push -2
+ 	 del
+ 	 push 216
+ 	 
+ 	 
+ 	 push 145
+ 	 push 252
+ 	push 3
+ 	push 1
+ sub
+ del
+ 	push 223 
+ 	push 42
+ 	push 35
+ 	 push 178
+ 	 
+ 	 push 148
+ 	  push -2 
+ 	  push 1
+ 	 push 5
+ 	 push 0
+ 	 sub
+ 	 del
+ 	 push -3
+ 	  add
+ 	  del
+ 	  del
+ 	  push 0
+ 	  dup
+ 	  add
+ 	  del
+ 	 push 218
+ 	 push 141
+ 	 push 6
+ 	 	push 0
+ 	 	push 8
+ 	 	push 6
+ 	 		sub
+ 	 		del
+ 	 		 add
+ 	 		 del
+ 	 		 push 195
+ 	 		 
+ 	 		push 207
+ 	 		push 8
+ 	 		push 7
+ 	 		
+ 	 		sub
+ 	 		 del
+ 	 		 push 246
+ 	 		 push 115
+ 	 		push 79
+ 	 			push 112
+ 	 			push 114
+ 	 			push 9
+ 	 			push 0
+ 	 			dup
+ 	 			add
+ 	 			del
+ 	 			 del
+ 	 			 push 0
+ 	 			 del
+ 	 			 push 1
+ 	 			 push 3
+ 	 			 add
+ 	 			 push -3
+ 	 			 push 3
+ 	 			 push 9
+ 	 			 push 7
+ 	 			 	push 9
+ 	 			 	 div
+ 	 			 	push 9
+ 	 			 mult
+ 	 			 del
+ 	 			 push -2
+ 	 			 	sub
+ 	 			 	 del
+ 	 			 	 add
+ 	 			 	 push 8
+ 	 			 	 
+ 	 			 	 push 3
+ 	 			 	 div
+ 	 			 	 push 7
+ 	 			 	 mult
+ 	 			 	 del
+ 	 			 	 del
+ 	 			 	 del
+ 	 			 	 push 154
+ 	 			 	 
+ 	 			 	 push 89
+ 	 			 	 push 47
+ 	 			 	 push 234
+ 	 			 	 push 54
+ 	 			 	 push 240
+ 	 			 	 push 33
+ 	 			 	 	push -2
+ 	 			 	 	
+ 	 			 	 push -2
+ 	 			 	 add
+ 	 			 	 del
+ 	 			 	 push 72
+ 	 			 	 push 30
+ 	 			 	 
+ 	 			 	 push 84
+ 	 			 	push 9
+ 	 			 
+ 	 			 dup
+ 	 			 add
+ 	 			 del
+ 	 			 push 3
+ 	 			 push -1
+ 	 			 add
+ 	 			 del
+ 	 			  push 7
+ 	 			  	push 158
+ 	 			  	push 2
+ 	 			  push -2
+ 	 			  sub
+ 	 			 del
+ 	 			 push -3
+ 	 			del
+ 	 			push 0
+ 	 		push 7
+ 	 		add
+ 	 		del
+ 	 		push 18
+ 	 		 push 233
+ 	 		 push 8
+ 	 		 del
+ 	 		  push 206
+ 	 		  
+ 	 		  push 125
+ 	 		  push 103
+ 	 		  push 105
+ 	 		  
+ 	 		  push 56
+ 	 		   push 4
+ 	 		   push 2
+ 	 		   sub 
+ 	 		   del
+ 	 		   push 80
+ 	 		   push 4
+ 	 		   dup
+ 	 		   add
+ 	 		   del
+ 	 		   push 188
+ 	 		   push 133
+ 	 		   
+ 	 		   push 136
+ 	 		   push 0
+ 	 		   push 4
+ 	 		   push 3
+ 	 		   sub
+ 	 		   del
+ 	 		    del
+ 	 		    
+ 	 		    push 6
+ 	 		    del 
+ 	 		    push -2
+ 	 		    push 8 
+ 	 		    del
+ 	 		    del
+ 	 		    push 8
+ 	 		    dup
+ 	 		    add
+ 	 		    del
+ 	 		    push 173
+ 	 		    	push 19
+ 	 		    	push 76
+ 	 		    	push 253
+ 	 		    	push 2
+ 	 		    	push 9
+ 	 		    	dup
+ 	 		    	add
+ 	 		    	del
+ 	 		    	dup
+ 	 		    	add
+ 	 		    	del
+ 	 		    	
+ 	 		    	
+ 	 		    	push 48
+ 	 		    	push 0
+ 	 		    	 
+ 	 		    	push 68
+ 	 		    	push 182
+ 	 		    	 push 168
+ 	 		    	 push 130
+ 	 		    	 push 27
+ 	 		    	 push 232 
+ 	 		    	 push 190
+ 	 		    	 push 121
+ 	 		    	 push 9
+ 	 		    	push 5
+ 	 		    	sub
+ 	 		    	del
+ 	 		    	push -1
+ 	 		    	dup
+ 	 		    	mult
+ 	 		    	push 8
+ 	 		    mult
+ 	 		     del
+ 	 		     push 3
+ 	 		     push 3
+ 	 		     dup
+ 	 		     add
+ 	 		     del
+ 	 		     
+ 	 		     
+ 	 		     push -3
+ 	 		     sub
+ 	 		     del
+ 	 		     push 126
+ 	 		     
+ 	 		     push 44
+ 	 		     push 157
+ 	 		      push 65
+ 	 		      push 85
+ 	 		      
+ 	 		      push -2
+ 	 		      push 9
+ 	 		      dup
+ 	 		      add
+ 	 		      del
+ 	 		      del
+ 	 		      push 241
+ 	 		      push 5
+ 	 		      del
+ 	 		      push 2
+ 	 		      push 1
+ 	 		      dup
+ 	 		     mult
+ 	 		     push 8
+ 	 		     mult
+ 	 		     del
+ 	 		    dup
+ 	 		    	add
+ 	 		    		del
+ 	 		    		push 41
+ 	 		    		push 152
+ 	 		    		push 146
+ 	 		    		push 7
+ 	 		    		push -3
+ 	 		    		push 1
+ 	 		    		push 3
+ 	 		    		
+ 	 		    		dup
+ 	 		    		add
+ 	 		    		del
+ 	 		    		dup
+ 	 		    		 add
+ 	 		    		 del
+ 	 		    		 add
+ 	 		    		 push 5
+ 	 		    		 push -2
+ 	 		    		 sub
+ 	 		    		 del
+ 	 		    		 del
+ 	 		    		 push -2
+ 	 		    		 push -3
+ 	 		    		 sub
+ 	 		    		 del
+ 	 		    		 push 196
+ 	 		    		 push 4
+ 	 		    		 dup
+ 	 		    		add
+ 	 		    		del
+ 	 		    		push 6
+ 	 		    		
+ 	 		    		push 9
+ 	 		    			sub
+ 	 		    			del
+ 	 		    		
+ 	 		    		push 228
+ 	 		    		
+ 	 		    		push 239
+ 	 		    		push 8
+ 	 		    	push 4
+ 	 		    	 
+ 	 		    	 add
+ 	 		    	 del
+ 	 		    	 push 177
+ 	 		    	 push 127
+ 	 		    	push 245
+ 	 		    	push 159
+ 	 		    	
+ 	 		    	push 7
+ 	 		    	del
+ 	 		    push 230
+ 	 		    push 1
+ 	 		    push 0
+ 	 		    push 3
+ 	 		    push 9
+ 	 		    div
+ 	 		    push 5
+ 	 		    mult
+ 	 		    del
+ 	 		    push -1
+ 	 		     sub 
+ 	 		     del
+ 	 		     push 110
+ 	 		     push 4
+ 	 		     push 9
+ 	 		     push 5
+ 	 		     push 2
+ 	 		     dup
+ 	 		     add
+ 	 		     del
+ 	 		     dup
+ 	 		     add
+ 	 		    del
+ 	 		    sub
+ 	 		    del
+ 	 		   push 226
+ 	 		   push 6
+ 	 		   
+ 	 		   push 4
+ 	 		   sub
+ 	 		   del
+ 	 		   push 7
+ 	 		   	push 1
+ 	 		   	sub
+ 	 		   	del
+ 	 		   	push 131
+ 	 		   	push 200
+ 	 		   	push 150
+ 	 		   	push 95
+ 	 		   	push 169
+ 	 		   	
+ 	 		   		push 53
+ 	 		   		push 140
+ 	 		   		push 58
+ 	 		   		push 1
+ 	 		   		push 4
+ 	 		   		sub
+ 	 		   		del
+ 	 		   		
+ 	 		   		push 6
+ 	 		   		push 77
+ 	 		   		push 3
+ 	 		   		dup
+ 	 		   		add
+ 	 		   		del
+ 	 		   		push 165
+ 	 		   		push 209
+ 	 		   		
+ 	 		   		push 113
+ 	 		   		push 9
+ 	 		   		push 8
+ 	 		   		sub
+ 	 		   		del
+ 	 		   	push 108
+ 	 		   	push 197
+ 	 		   	push 0
+ 	 		   	 push 5
+ 	 		   	push 0
+ 	 		   		sub
+ 	 		   		del
+ 	 		   		push 8
+ 	 		   		
+ 	 		   		add
+ 	 		   		del
+ 	 		   		push 122
+ 	 		   		push 247
+ 	 		   		push 74
+ 	 		   		push 70
+ 	 		   		push 2
+ 	 		   		push -1
+ 	 		   		push 5
+ 	 		   		add
+ 	 		   		del
+ 	 		   		push 2
+ 	 		   		del
+ 	 		   		push 5
+ 	 		   		del
+ 	 		   		del
+ 	 		   		push 101
+ 	 		   		push 219
+ 	 		   	push 138
+ 	 		   	push 142
+ 	 		   	push 57
+ 	 		   	push -3
+ 	 		   	push -1
+ 	 		   	add 
+ 	 		   	del
+ 	 		   	 push 224
+ 	 		   	 
+ 	 		   	 push 0
+ 	 		   	 
+ 	 		   	 del
+ 	 		   	 push 20
+ 	 		   	 push 244
+ 	 		   	 push 189
+ 	 		   	 push 11
+ 	 		   	push 144
+ 	 		   push -3
+ 	 		   dup
+ 	 		  add
+ 	 		  del
+ 	 		  push 2
+ 	 		  	push 92
+ 	 		  	push -1
+ 	 		  	push 7
+ 	 		  	add
+ 	 		  del
+ 	 		  push 117
+ 	 		  push 237
+ 	 		  push 17
+ 	 		  push 204
+ 	 		 
+ 	 		 push 187
+ 	 		push 255
+ 	 		push 170
+ 	 		push 221
+ 	 		push 5
+ 	 		push 0
+ 	 			add
+ 	 			del
+ 	 			
+ 	 			push 163
+ 	 			push -3
+ 	 			del
+ 	 		push 242
+ 	 		push 67
+ 	 		push 186
+ 	 		push 2
+ 	 		dup
+ 	 		add
+ 	 		 del
+ 	 		
+ 	 		push 135
+ 	 		push 193
+ 	 		push 225
+ 	 		
+ 	 		push 120
+ 	 		push 215
+ 	 		 push 94
+ 	 		 push 25
+ 	 		 push 73
+ 	 		 push 205
+ 	 		push 88
+ 	 	push 0
+ 	 	 del
+ 	 	push 129
+ 	 	push 2
+ 	 	push 6
+ 	 	add
+ 	 	del
+ 	 	push 249
+ 	 	push 38 
+ 	 	push 75
+ 	 	push 9
+ 	 	push -2
+ 	 	sub
+ 	 	push 0
+ 	 	dup 
+ 	 add
+ 	del
+ 	del
+ 	push 155
+ 	
+ 	 push 162
+ 	 push 123
+ 	 push 49
+ 	 push 8
+ 	 push 2
+ 	 sub
+ 	 del
+ 	 push 7
+ 	 push 1
+ 	 dup
+ 	 add
+ 	 del
+ 	 push 1
+ 	 push 1
+ 	 sub
+ 	 del 
+ 	 
+ 	  push 4
+ 	  add
+ 	  del
+ 	  push 9
+ 	  del
+ 	  push 81
+ 	  push 24
+ 	  push 12
+ 	  push 0
+ 	 push 5
+ 	 add
+ 	 del
+ 	 push 34
+ 	 push 2
+ 	 push 9
+ 	 add
+ 	 del
+ 	 push 60
+ 	 push 83
+ 	 push 254
+ 	 push 109
+ 	 push 211
+ 	 push 1
+ 	 push 3
+ 	 push -1
+ 	 
+ 	 push -2
+ 	sub
+ 	 del
+ 	 add
+ 	 del
+ 	push -1
+ 	del
+ 	push 214
+ 	
+ 	push 99
+ 	push 87
+ 	push 1
+ 	push 5
+ 	dup
+ 	add
+ 	del
+ 	del
+ 	push 134
+ 	
+ 	push 43
+ 	 push 166
+ 	 push 248
+ 	 push 183
+ 	 push 32
+ 	 push 62
+ 	 push 3 
+ 	 push 9
+ 	 push -2
+ 	 push 5
+ 	 	sub
+ 	 	del
+ 	 	add
+ 	 	 del
+ 	 	 push 238
+ 	 	 push -2
+ 	 	 push 8
+ 	 	 add
+ 	 	 	del
+ 	 	 	push 10
+ 	 	 	push 9
+ 	 	 	push 5
+ 	 	 	add
+ 	 	 	del
+ 	 	 push 9
+ 	 	 push 6
+ 	 	 sub
+ 	 	 del
+ 	 	 push 8
+ 	 	 push 9
+ 	 	 add
+ 	 	 push 3
+ 	 	 push 7 
+ 	 	dup
+ 	 	add
+ 	 	del
+ 	 	push 5
+ 	 	add
+ 	 	del
+ 	 	del
+ 	 	push 1
+ 	 		push -3
+ 	 			
+ 	 			sub
+ 	 			del
+ 	 			push 37
+ 	 			push 61
+ 	 			push 8
+ 	 			push -2
+ 	 			push 1
+ 	 			sub
+ 	 			 del
+ 	 			 push -3
+ 	 			 add
+ 	 			  push -1
+ 	 			 dup
+ 	 			 mult
+ 	 			 push 7
+ 	 			 mult
+ 	 			 del
+ 	 			 del
+ 	 			 push 9
+ 	 			 push 9
+ 	 			 	add
+ 	 			 	del
+ 	 			 push -2
+ 	 			 dup
+ 	 			  add
+ 	 			  del
+ 	 			  push -2
+ 	 			  del
+ 	 			 push 26
+ 	 			 push 4
+ 	 			 push 5
+ 	 			 push 1
+ 	 			 add
+ 	 			 del
+ 	 			 del
+ 	 			 	push 0 
+ 	 			 		push 5
+ 	 			 		add
+ 	 			 		del
+ 	 			 		push 78
+ 	 			 	push 5
+ 	 			 	push 3
+ 	 			 	add
+ 	 			 	del
+ 	 			 	push 46
+ 	 			 		
+ 	 			 	push -1
+ 	 			 	del
+ 	 			 push 229
+ 	 			  push 4
+ 	 			  push 156
+ 	 			  push 45
+ 	 			  push -2
+ 	 			  
+ 	 			  push 9
+ 	 			 push 2
+ 	 			 sub
+ 	 			 del
+ 	 			 del
+ 	 			 push 217
+ 	 			 push 1
+ 	 			 push -2
+ 	 			push 2
+ 	 				add
+ 	 				del
+ 	 				del
+ 	 				push 153
+ 	 				
+ 	 					push 5
+ 	 				push 3
+ 	 				div
+ 	 				push 5
+ 	 			mult
+ 	 			del
+ 	 			push 36
+ 	 			push 137
+ 	 			
+ 	 			push 171
+ 	 			push 222
+ 	 			push 4
+ 	 		push 8
+ 	 		sub
+ 	 		del 
+ 	 		push 69
+ 	 		
+ 	 		push 107
+ 	 		push 227
+ 	 		push 28
+ 	 		push 210
+ 	 	push 180
+ 	 	push 64
+ 	 	 
+ 	 	push -2
+ 	 	del
+ 	 	
+ 	 	
+ 	 	
+ 	 	push 176
+ 	 	push -3
+ 	 	push 6
+ 	 	add
+ 	 	del
+ 	 	push 86
+ 	 	push 5
+ 	 	push 63
+ 	 	push 51
+ 	 push 2
+ 	 del
+ 	 push -2
+ 	 del
+ 	  
+ 	 
+ 	 push -1
+ 	 del
+ 	 push 119
+ 	 push 202 
+ 	 
+ 	 push 6
+ 	 push -2
+ 	 add
+ 	 push 8
+ 	 dup
+ 	 add
+ 	 del
+ 	 push 2
+ 	 push 2
+ 	 sub
+ 	 del
+ 	 del 
+ 	 push 6
+ 	 push 5
+ 	div
+ 	push 9
+ 	 
+ 	 dup
+ 	 mult
+ 	 push 4
+ 	mult
+ 	del
+ 	push 3
+ mult
+ del
+ push 90
+ 
+ push 1
+ del
+ push 102
+ push 50
+ push 3
+ push 13
+ push 71
+ push 82
+push 172
+
+push 124
+push 6
+	dup
+	add
+	del
+
+push 179
+push 29
+push 194
+push 116
+
+
+push 203
+push 160
+push 191
+push 98
+push 181
+
+push -2
+del
+
+push 128
+push 16
+
+push 5
+push -3
+add
+del
+push 185
+push 212
+push 100
+push 97
+push 167
+push -1
+pop
+
+push -2
+push 5
+add
+ del
+ 
+ dup
+ push -1
+ eq
+ 	push 4113
+ push 3
+ del
+ jmpc
+ left
+ push -2
+ dup
+ add
+ del 
+ push -1
+ push 6
+ 
+ sub
+ del
+ 
+ pop
+ 
+
+push 7
+push 9
+
+push 7
+div
+push 7
+	mult
+del
+push 5
+sub
+del
+	push 4021
+	push -1
+	push 6
+	dup
+	add
+	del
+push 8
+
+add
+del
+pusht
+right
+ 
+pusht
+push 1
+push 5
+push -2
+add
+	push 4
+	push 8
+dup
+add
+del
+push 2
+push 5
+push 3
+sub
+del
+sub
+del
+del
+push 4
+push 7
+add
+del
+push -2
+	push 7
+	dup
+		add
+			del
+			del
+			add
+			 dup
+			 push 0
+			 dup
+			 add
+			del
+			push 9
+		push 9
+		add
+		del
+			pop
+			push 1911
+			 jmp
+			 
+			 push 9
+			 push 7
+			div
+			push 4
+			mult
+			
+			del
+			push 0
+			dup
+				add
+				del
+			push -3
+			push 9
+				sub
+			del
+			push 4134
+			read
+			push 1000
+			push 1911
+			jmp
+			
+		push 4140
+		read
+		push 1001
+		push 1911
+		jmp
+			
+			push 4149
+			push 9
+			del
+			read 
+			
+			push 1002 
+			push 1911
+				jmp
+				
+				push 8
+			push 2
+			sub
+			del
+			push 4172
+			
+			push 0
+			del
+		read
+	push 9
+	del
+	push 1003
+	push 1911
+	jmp
+	push 3
+	push -3
+	push 6
+push 3
+sub 
+del
+sub
+ del
+ 
+ push 4183
+ 
+ read
+ push 2
+push 3
+add
+ del
+push 1004
+push 1911
+jmp
+
+push -2
+push 5
+dup
+add
+del
+push 9
+sub
+del
+push 4205
+read
+push 1005
+push -2
+push -1
+add
+del
+push 1911
+jmp
+push -2
+push 5
+sub
+del
+
+push -3
+del
+push 420
+left
+left
+pop
+
+right
+	push 0
+	 del
+	 push 1
+	 push 3
+	 add
+	 del
+	 right
+	push -1
+	push 3
+	sub
+	del
+	
+	push 4235
+
+
+	push 1976
+	 push -3
+	 push 7
+	 sub
+	 del
+	 jmp
+	 
+	  push 4243
+	  push 2614
+	  jmp
+	  push 4
+	  dup
+	  add
+	 del
+	 
+	 	push 5
+	 	push 8
+	 	sub
+	 	del
+	 	
+	 	
+	 		push 7
+	 		del
+	 		push 4261
+	 		 
+	 		 push 1976
+	 		 jmp
+	 		 push 0
+	 		 
+	 		 push 7
+	 		 sub
+	 		  del
+	 		  
+	 		  push 9
+	 		  push 6
+	 		 add
+	 		 del
+	 		 push 1
+	 		 push 4
+	 		 push 5
+	 		 sub 
+	 		 del
+	 		 push -3
+	 		 add
+	 		 del
+	 		 
+	 		 
+	 		 push 4
+	 		 push 6
+	 		 add
+	 		 del
+	 		 push 4298
+	 		push 3
+	 	del
+	 	push -3
+	 	dup
+	 	add
+	 	 del
+	 	 push 8
+	 	  push 2
+	 	  add
+	 	   del 
+	 	   push 2614
+	 	  push 9
+	 	  dup
+	 	  add
+	 	  
+	 	  del
+	 	  jmp
+	 	 
+	 	  	push 4302
+	 	  	push 2614
+	 	  jmp
+	 	  
+	 	 left
+	 	 push 0
+	 	 del
+	 	push 6
+	 	 del
+	 	 left
+	 	 pusht
+	 	 push -1
+	 	 add
+	 	 push 0
+	 	 del
+	 	 push -1
+	 	dup
+	 	add
+	 	del
+	 
+	 dup
+	 pop
+	 push 4212
+	 push 46
+	 push -2
+	 del
+	  push -1
+	  del
+	  print
+	  
+	  jmpc
+	  push 10
+	  print
+	  right
+	  right
+	  push 1
+	 push -1
+	 sub
+	 del
+	 push 0
+	 dup
+	  add
+	  del
+	 push 4
+	dup
+add
+del
+push -1
+push -1
+add
+del
+read
+push 3
+del
+
+push 125
+ push 8
+ dup
+ add
+del
+eq
+push 4
+push -1
+del
+push 2
+dup
+add
+del
+del
+push 1
+dup
+add
+del
+ not
+ push 1377
+ jmpc
+ push 74
+ push 6
+ 	del
+ 	push 4394
+ 	push -3
+ 	 	del
+ 	 	push 1
+ 	 		push 2
+ 	 		dup
+ 	 		add
+ 	 		del
+ 	 		push 4
+ 	 		sub
+ 	 		 del
+ 	 		 push 1000
+ 	 		 
+ 	 		 push 1812
+ 	 		jmp
+ 	 		
+ 	 		
+ 	 		pusht
+ 	 		
+ 	 		eq
+ 	 		not
+ 	 		push 3
+ 	 		push 4
+ 	 		add
+ 	 		del
+ 	 		push 3
+ 	 		push 9
+ 	 		push -3
+ 	 		dup 
+ 	 	add
+ 	 	del
+ 	 	push 3
+ 	 	push 3
+ 	 	 sub
+ 	 	 
+ 	 	 del
+ 	 	 del
+ 	 	  push -1
+ 	 	  
+ 	 	  dup
+ 	 	 add
+ 	 	 del
+ 	 	 
+ 	 	 jmpc
+ 	 	 push 139
+ 	 	 push 4435
+ 	 	 push -2
+ 	 	 push 4
+ 	 	 add
+ 	 	del
+ 	 	push 1001
+ 	 push 1812
+ 	 push 1
+ 	 push 3
+ 	 add
+ 	 del
+ 	 jmp
+ 	 
+ 	 pusht
+ 	 eq
+ 	 
+ 	 push 2
+ 	 push 9
+ 	 push 1
+ 	 push 9
+ 	 sub
+ 	del
+ 	sub
+ 	del
+ 	not
+ 	push 3
+ 	jmpc
+ 	push 62
+ 	push 4457
+ 	push 1002
+ push 1812
+ jmp
+ push -3
+ del
+ 
+ push 8
+ del
+ push 7
+push 4
+add
+del
+pusht
+
+eq
+
+not
+ push 3
+ push -3
+push 9
+push -3
+sub
+del
+ 	del
+ jmpc
+ push 9
+ del
+ push 163
+ push 4490
+ push 1003
+push 1812
+jmp
+push -2
+dup
+mult
+push 4
+mult
+del
+
+pusht
+eq
+not
+push 3
+jmpc
+
+push 189
+push 4510
+	push 1004
+	 push 1812
+	 push 6
+	 push 2
+	 sub
+	 del
+	 jmp
+	 push -2
+	 push 2
+	 sub
+	 del
+	 
+	 push 9
+	 push 2
+	dup
+add
+del
+push 8
+push -2
+push 5
+sub
+del
+add
+del
+push 3
+push -3
+sub
+del
+pusht
+ push 4
+ push -3
+
+add
+del
+eq
+
+push 4
+push -2
+sub
+
+del
+	push -1
+	 push 0
+	 add
+	 del
+	 push -2
+	  dup
+	  add
+	  del
+	  	push 2
+	  push 8
+	  dup
+	  add
+	  del
+	  push 2
+	  sub
+	  del
+	   not
+	   push 3
+	   push 6
+	   push 0
+	   del
+	   del
+	   
+	  
+	  push 2
+	  push 7
+	  add
+	  del
+	  jmpc
+	 
+	 push 180
+	 push 3
+	 dup
+	 add
+	 del
+	 push 9
+	 push -2
+	 push 8
+	  add
+	  del
+	  push 2
+	  push 5
+	  sub
+	  del
+	  push -3
+	  dup
+	  add
+	  del
+	 del
+	push 4612
+	
+	push 1005
+	push 1812
+	push 8
+		dup
+		add
+		del
+		push 1
+	push 2
+	add
+	del
+	push 6
+	push -2
+	add
+	del
+	push 8
+	dup
+	add
+
+del
+jmp 
+
+
+pusht
+ eq
+ not
+ 
+push 3
+jmpc
+push 10
+ print
+ push 121
+ push 2 
+ push 0
+ push 1
+ push 0
+ sub
+ del
+ 	add 
+ 	del
+ 	print
+ 	push 0
+ 	push 3
+ 	sub
+ 	del
+ 	push 2
+ 	del
+ 		push 4
+ 		push 9
+ 		add
+ 		push 5
+ 		push 3
+ 		dup
+ 		add
+ 		del
+ 		 push 7
+ 		 sub
+ 		 del
+ 		 del
+ 		 push 5
+ 		 push 5 
+ 		 
+ 		push -3
+ 		sub
+ 		push -1
+ 		dup
+ 	add
+ 	del
+ 	del
+ 	push 4
+ 	push 7
+ 	div
+ push 4
+ mult
+del
+push 0
+sub
+del
+push 117
+print
+
+push 5
+del
+push 6
+ 	push 3
+ 	sub
+ 	del
+ 		push 9
+ 		push -1
+ 		add
+ 		push -3
+ 			dup
+ 			add
+ 			 del
+ 			 push 7
+ 			 push 5
+ 			 push 7
+ 			 sub
+ 			 del
+ 			 push -1
+ 			 add
+ 			 del
+ 			 del
+ 			 push 0
+ 			 del
+ 			 push 112
+ 			 print
+ 			push 10
+ 			
+ 			print

@@ -1,0 +1,1628 @@
+push ENTRY_POINT
+jmp
+
+// flag was not entered correctly
+CMP_FAIL:
+
+push 83
+print
+push 111
+print
+push 114
+print
+push 114
+print
+push 121
+print
+push 44
+print
+push 32
+print
+push 116
+print
+push 104
+print
+push 97
+print
+push 116
+print
+push 32
+print
+push 105
+print
+push 115
+print
+push 32
+print
+push 110
+print
+push 111
+print
+push 116
+print
+push 32
+print
+push 116
+print
+push 104
+print
+push 101
+print
+push 32
+print
+push 99
+print
+push 111
+print
+push 114
+print
+push 114
+print
+push 101
+print
+push 99
+print
+push 116
+print
+push 32
+print
+push 107
+print
+push 101
+print
+push 121
+print
+push 32
+print
+push 58
+print
+push 40
+print
+push 10
+dup
+print
+print
+
+// now crash or idle (hopefully accounts for weird implementations)
+del
+del
+del
+del
+del
+push CMP_FAIL
+jmp
+
+ENTRY_POINT:
+// print prompt
+push 69
+print
+push 110
+print
+push 116
+print
+push 101
+print
+push 114
+print
+push 32
+print
+push 102
+print
+push 108
+print
+push 97
+print
+push 103
+print
+push 32
+print
+push 112
+print
+push 108
+print
+push 122
+print
+push 58
+print
+push 32
+print
+push 27
+print
+push 91
+print
+push 68
+print
+push 27
+print
+push 91
+print
+push 68
+print
+push 10
+print
+
+
+
+push 108
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 97
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 98
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 111
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 114
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 116
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 97
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 103
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 101
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 123
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 109
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 121
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 45
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 102
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 97
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 118
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 111
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 117
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 114
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 105
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 116
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 101
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 45
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 114
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 97
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 110
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 100
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 111
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 109
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 45
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 110
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 117
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 109
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 98
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 101
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 114
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 45
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 105
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 115
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 45
+read
+eq
+not
+push CMP_FAIL
+jmpc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+push CHECK
+jmp
+
+
+RIDICULE:
+push 108
+print
+push 111
+print
+push 108
+print
+push 32
+print
+push 121
+print
+push 111
+print
+push 117
+print
+push 32
+print
+push 102
+print
+push 111
+print
+push 114
+print
+push 103
+print
+push 111
+print
+push 116
+print
+push 32
+print
+push 116
+print
+push 104
+print
+push 101
+print
+push 32
+print
+push 99
+print
+push 108
+print
+push 111
+print
+push 115
+print
+push 105
+print
+push 110
+print
+push 103
+print
+push 32
+print
+push 98
+print
+push 114
+print
+push 97
+print
+push 99
+print
+push 107
+print
+push 101
+print
+push 116
+print
+push 32
+print
+push 94
+print
+push 94
+print
+push 10
+print
+push CMP_FAIL
+jmp
+
+
+
+
+// Interface: s[0] = addr, s[1] = return addr, pusht to get return val
+READ_ADDR:
+
+right
+
+push 1
+add
+
+READ_ADDR_LOOP:
+right
+push -1
+add
+dup
+push READ_ADDR_LOOP
+jmpc
+
+del //del counter
+
+pusht
+
+READ_ADDR_LOOP2:
+left
+pusht
+push 1
+add
+push READ_ADDR_LOOP2
+jmpc
+
+left
+pop 
+
+//return
+jmp
+
+
+
+// Intreface: s[0] addr s[1] val s[2] ret addr
+WRITE_ADDR:
+
+right
+
+push 1
+add
+
+WRITE_ADDR_LOOP:
+right
+push -1
+add
+dup
+push WRITE_ADDR_LOOP
+jmpc
+
+del // del counter
+
+pop
+
+WRITE_ADDR_LOOP2:
+left
+pusht
+push 1
+add
+push WRITE_ADDR_LOOP2
+jmpc
+
+left
+
+//return
+jmp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUBSTITUTE:
+push SUBSTITUTE_2
+push 1000
+push READ_ADDR
+jmp
+SUBSTITUTE_2:
+pusht
+left
+pop
+push SUBSTITUTE_2_2
+pusht
+right
+push READ_ADDR
+jmp
+SUBSTITUTE_2_2:
+pusht
+left
+pop
+push SUBSTITUTE_2_3
+pusht
+right
+push 1000
+push WRITE_ADDR
+jmp
+SUBSTITUTE_2_3:
+
+
+push SUBSTITUTE_3
+push 1001
+push READ_ADDR
+jmp
+SUBSTITUTE_3:
+pusht
+left
+pop
+push SUBSTITUTE_3_2
+pusht
+right
+push READ_ADDR
+jmp
+SUBSTITUTE_3_2:
+pusht
+left
+pop
+push SUBSTITUTE_3_3
+pusht
+right
+push 1001
+push WRITE_ADDR
+jmp
+SUBSTITUTE_3_3:
+
+
+
+push SUBSTITUTE_4
+push 1002
+push READ_ADDR
+jmp
+SUBSTITUTE_4:
+pusht
+left
+pop
+push SUBSTITUTE_4_2
+pusht
+right
+push READ_ADDR
+jmp
+SUBSTITUTE_4_2:
+pusht
+left
+pop
+push SUBSTITUTE_4_3
+pusht
+right
+push 1002
+push WRITE_ADDR
+jmp
+SUBSTITUTE_4_3:
+
+
+
+
+push SUBSTITUTE_5
+push 1003
+push READ_ADDR
+jmp
+SUBSTITUTE_5:
+pusht
+left
+pop
+push SUBSTITUTE_5_2
+pusht
+right
+push READ_ADDR
+jmp
+SUBSTITUTE_5_2:
+pusht
+left
+pop
+push SUBSTITUTE_5_3
+pusht
+right
+push 1003
+push WRITE_ADDR
+jmp
+SUBSTITUTE_5_3:
+
+
+
+
+
+push SUBSTITUTE_6
+push 1004
+push READ_ADDR
+jmp
+SUBSTITUTE_6:
+pusht
+left
+pop
+push SUBSTITUTE_6_2
+pusht
+right
+push READ_ADDR
+jmp
+SUBSTITUTE_6_2:
+pusht
+left
+pop
+push SUBSTITUTE_6_3
+pusht
+right
+push 1004
+push WRITE_ADDR
+jmp
+SUBSTITUTE_6_3:
+
+
+
+
+
+push SUBSTITUTE_7
+push 1005
+push READ_ADDR
+jmp
+SUBSTITUTE_7:
+pusht
+left
+pop
+push SUBSTITUTE_7_2
+pusht
+right
+push READ_ADDR
+jmp
+SUBSTITUTE_7_2:
+pusht
+left
+pop
+push SUBSTITUTE_7_3
+pusht
+right
+push 1005
+push WRITE_ADDR
+jmp
+SUBSTITUTE_7_3:
+
+//return
+jmp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MIX:
+push MIX_x_3 
+//used later
+push MIX_x_1
+push 1000
+push READ_ADDR
+jmp
+MIX_x_1:
+// 2
+push 256
+pusht
+
+push MIX_x_2
+push 1001
+push READ_ADDR
+jmp
+MIX_x_2:
+pusht
+add
+push 42
+add
+// 2
+mod
+
+//used here
+
+push 1000
+push WRITE_ADDR
+jmp
+
+MIX_x_3:
+
+
+
+push MIX_1_3 
+//used later
+push MIX_1_1
+push 1001
+push READ_ADDR
+jmp
+MIX_1_1:
+// 2
+push 256
+pusht
+
+push MIX_1_2
+push 1002
+push READ_ADDR
+jmp
+MIX_1_2:
+pusht
+add
+push 42
+add
+// 2
+mod
+
+//used here
+
+push 1001
+push WRITE_ADDR
+jmp
+
+MIX_1_3:
+
+
+
+
+push MIX_2_3 
+//used later
+push MIX_2_1
+push 1002
+push READ_ADDR
+jmp
+MIX_2_1:
+// 2
+push 256
+pusht
+
+push MIX_2_2
+push 1003
+push READ_ADDR
+jmp
+MIX_2_2:
+pusht
+add
+push 42
+add
+// 2
+mod
+
+//used here
+
+push 1002
+push WRITE_ADDR
+jmp
+
+MIX_2_3:
+
+
+
+
+push MIX_3_3 
+//used later
+push MIX_3_1
+push 1003
+push READ_ADDR
+jmp
+MIX_3_1:
+// 2
+push 256
+pusht
+
+push MIX_3_2
+push 1004
+push READ_ADDR
+jmp
+MIX_3_2:
+pusht
+add
+push 42
+add
+// 2
+mod
+
+//used here
+
+push 1003
+push WRITE_ADDR
+jmp
+
+MIX_3_3:
+
+
+push MIX_4_3 
+//used later
+push MIX_4_1
+push 1004
+push READ_ADDR
+jmp
+MIX_4_1:
+// 2
+push 256
+pusht
+
+push MIX_4_2
+push 1005
+push READ_ADDR
+jmp
+MIX_4_2:
+pusht
+add
+push 42
+add
+// 2
+mod
+
+//used here
+
+push 1004
+push WRITE_ADDR
+jmp
+
+MIX_4_3:
+
+
+push MIX_5_3 
+//used later
+push MIX_5_1
+push 1005
+push READ_ADDR
+jmp
+MIX_5_1:
+// 2
+push 256
+pusht
+
+push MIX_5_2
+push 1000
+push READ_ADDR
+jmp
+MIX_5_2:
+pusht
+add
+push 42
+add
+// 2
+mod
+
+//used here
+
+push 1005
+push WRITE_ADDR
+jmp
+
+MIX_5_3:
+
+
+//return
+jmp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHECK:
+
+//initialise tape
+right
+right
+right
+push -1
+pop
+left
+
+push RETURN 
+push 98
+push 5
+push WRITE_ADDR
+jmp
+RETURN:
+
+push RETURN2
+push 5
+push READ_ADDR
+jmp
+RETURN2:
+pusht
+del
+//print
+
+
+
+
+
+
+// substitution list
+push -1
+
+push 164
+push 23
+push 39
+push 14
+push 149
+push 93
+push 96
+push 174
+push 91
+push 143
+push 22
+push 59
+push 213
+push 8
+push 175
+push 139
+push 40
+push 198
+push 161
+push 52
+push 111
+push 151
+push 184
+push 21
+push 235
+push 9
+push 251
+push 15
+push 132
+push 55
+push 118
+push 104
+push 31
+push 243
+push 250
+push 236
+push 106
+push 231
+push 192
+push 147
+push 66
+push 208
+push 199
+push 201
+push 220
+push 216
+push 145
+push 252
+push 223
+push 42
+push 35
+push 178
+push 148
+push 218
+push 141
+push 195
+push 207
+push 246
+push 115
+push 79
+push 112
+push 114
+push 154
+push 89
+push 47
+push 234
+push 54
+push 240
+push 33
+push 72
+push 30
+push 84
+push 7
+push 158
+push 18
+push 233
+push 206
+push 125
+push 103
+push 105
+push 56
+push 80
+push 188
+push 133
+push 136
+push 173
+push 19
+push 76
+push 253
+push 48
+push 0
+push 68
+push 182
+push 168
+push 130
+push 27
+push 232
+push 190
+push 121
+push 126
+push 44
+push 157
+push 65
+push 85
+push 241
+push 41
+push 152
+push 146
+push 196
+push 228
+push 239
+push 177
+push 127
+push 245
+push 159
+push 230
+push 1
+push 110
+push 226
+push 131
+push 200
+push 150
+push 95
+push 169
+push 53
+push 140
+push 58
+push 6
+push 77
+push 165
+push 209
+push 113
+push 108
+push 197
+push 122
+push 247
+push 74
+push 70
+push 101
+push 219
+push 138
+push 142
+push 57
+push 224
+push 20
+push 244
+push 189
+push 11
+push 144
+push 2
+push 92
+push 117
+push 237
+push 17
+push 204
+push 187
+push 255
+push 170
+push 221
+push 163
+push 242
+push 67
+push 186
+push 135
+push 193
+push 225
+push 120
+push 215
+push 94
+push 25
+push 73
+push 205
+push 88
+push 129
+push 249
+push 38
+push 75
+push 155
+push 162
+push 123
+push 49
+push 81
+push 24
+push 12
+push 34
+push 60
+push 83
+push 254
+push 109
+push 211
+push 214
+push 99
+push 87
+push 134
+push 43
+push 166
+push 248
+push 183
+push 32
+push 62
+push 238
+push 10
+push 37
+push 61
+push 26
+push 78
+push 46
+push 229
+push 4
+push 156
+push 45
+push 217
+push 153
+push 36
+push 137
+push 171
+push 222
+push 69
+push 107
+push 227
+push 28
+push 210
+push 180
+push 64
+push 176
+push 86
+push 5
+push 63
+push 51
+push 119
+push 202
+push 90
+push 102
+push 50
+push 3
+push 13
+push 71
+push 82
+push 172
+push 124
+push 179
+push 29
+push 194
+push 116
+push 203
+push 160
+push 191
+push 98
+push 181
+push 128
+push 16
+push 185
+push 212
+push 100
+push 97
+push 167
+
+push -1
+pop
+LIST_PUSH_LOOP:
+dup
+push -1
+eq
+push LIST_PUSH_EXIT
+jmpc
+
+left
+pop
+push LIST_PUSH_LOOP
+pusht
+right
+
+pusht
+push 1
+add
+dup
+pop
+
+push WRITE_ADDR
+jmp
+
+LIST_PUSH_EXIT:
+
+push READ_NUM_1
+read
+push 1000
+push WRITE_ADDR
+jmp
+READ_NUM_1:
+
+push READ_NUM_2
+read
+push 1001
+push WRITE_ADDR
+jmp
+READ_NUM_2:
+
+push READ_NUM_3
+read
+push 1002
+push WRITE_ADDR
+jmp
+READ_NUM_3:
+
+push READ_NUM_4
+read
+push 1003
+push WRITE_ADDR
+jmp
+READ_NUM_4:
+
+push READ_NUM_5
+read
+push 1004
+push WRITE_ADDR
+jmp
+READ_NUM_5:
+
+push READ_NUM_6
+read
+push 1005
+push WRITE_ADDR
+jmp
+READ_NUM_6:
+
+
+
+
+push 420
+left
+left
+pop
+
+MAIN_LOOP:
+right
+right
+
+
+push MAIN_1x
+push SUBSTITUTE
+jmp
+MAIN_1x:
+push MAIN_2x
+push MIX
+jmp
+MAIN_2x:
+
+push MAIN_1xc
+push SUBSTITUTE
+jmp
+MAIN_1xc:
+push MAIN_2xc
+push MIX
+jmp
+MAIN_2xc:
+
+push MAIN_2xa
+push MIX
+jmp
+MAIN_2xa:
+
+
+left
+left
+pusht
+push -1
+add
+dup
+pop
+push MAIN_LOOP
+
+push 46
+print
+
+jmpc
+push 10
+print
+
+right
+right
+
+
+
+
+
+read
+push 125
+eq
+not
+push RIDICULE
+jmpc
+
+
+
+push 74
+push COMPARE_1
+push 1000
+push READ_ADDR
+jmp
+COMPARE_1:
+pusht
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 139
+push COMPARE_2
+push 1001
+push READ_ADDR
+jmp
+COMPARE_2:
+pusht
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 62
+push COMPARE_3
+push 1002
+push READ_ADDR
+jmp
+COMPARE_3:
+pusht
+eq
+not
+push CMP_FAIL
+jmpc
+
+
+push 163
+push COMPARE_4
+push 1003
+push READ_ADDR
+jmp
+COMPARE_4:
+pusht
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 189
+push COMPARE_5
+push 1004
+push READ_ADDR
+jmp
+COMPARE_5:
+pusht
+eq
+not
+push CMP_FAIL
+jmpc
+
+push 180
+push COMPARE_6
+push 1005
+push READ_ADDR
+jmp
+COMPARE_6:
+pusht
+eq
+not
+push CMP_FAIL
+jmpc
+
+
+push 10
+print
+push 121
+print
+push 117
+print
+push 112
+print
+push 10
+print
